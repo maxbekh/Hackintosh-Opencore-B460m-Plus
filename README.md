@@ -7,8 +7,8 @@
 
 |    Device     |          Model           |
 | :-----------: | :----------------------: |
-|      CPU      |         I5-10500         |
-|  Motherboard  | Asus B460M Plus WIFI Tuf |
+|      CPU      |         I5-10400         |
+|  Motherboard  |Asus B460M Plus WIFI TUF Gaming |
 |     GPU0      |  Intel UHD Graphics 630  |
 |     GPU1      |   AMD Radeon RX 580 4G   |
 |     Audio     |    Realtek ALCS1200A     |
@@ -18,21 +18,23 @@
 
 ## What works
 
-| Function      | Status                                     |
-| ------------- | ------------------------------------------ |
-| CPU           | Work.                                      |
-| GPU           | DP, HDMI work. Hardware acceleration work. |
-| Audio         | Work with layout-id 50.                    |
-| Ethernet Card | Work.                                      |
-| WIFI/BT       | Work.                                      |
-| Sleep/Wake    | Work.                                      |
-| USB Mapping   | Work.                                      |
+| Function              | Status                     |
+| ----------------------| -------------------------- |
+| CPU                   | Work.                      |
+| GPU (DP, HDMI)        | Work.                      |
+|Hardware acceleration  | Work.                      |
+| Audio                 | Work with layout-id 50.    |
+| Ethernet Card         | Work.                      |
+| WIFI/BT               | Work.                      |
+| Sleep/Wake            | Work.                      |
+| USB Mapping           | Work.                      |
 
-**Note 1:** You should remap your own USB ports if the mapping does not work properly.
+**Note 1:** USB mapping is for B460M Plus wifi From Asus TUF Gaming. 
+You should remap your own USB ports if the mapping does not work properly.
 
 ## Known issues
-
-1. USB mapping 
+- 15 USB ports limit
+- Continuity only work for one way copy and hand off (AirportItlwm limitation)
 
 ## Kexts
 
