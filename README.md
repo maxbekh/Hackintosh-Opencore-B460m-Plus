@@ -75,16 +75,9 @@
 
 ## README Before Install
 
-- I set the model to iMac20,1, please change it if necessary, and you need to add Serial number, UUID and MLB by yourself.
-- I have inject GPU0, Audio and Ethernet info in DeviceProperties, modify them if necessary after you login OS.
-- In theory, this EFI is universal on each brand B460M motherboard, please solve the specific adjustment on your own.
+- Add Serial number, UUID and MLB by yourself.
 
 ## Preview
 
 ![](https://github.com/VanXNF/Hackintosh-Gigabyte-B460M-Aorus-Pro/raw/master/Images/Desktop.png)
 
-![](https://github.com/VanXNF/Hackintosh-Gigabyte-B460M-Aorus-Pro/raw/master/Images/codec.png)
-
-![](https://github.com/VanXNF/Hackintosh-Gigabyte-B460M-Aorus-Pro/raw/master/Images/Mic.png)
-
-![](https://github.com/VanXNF/Hackintosh-Gigabyte-B460M-Aorus-Pro/raw/master/Images/Output.png)
