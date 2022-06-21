@@ -79,5 +79,5 @@
 
 ## Preview
 
-![](https://github.com/VanXNF/Hackintosh-Gigabyte-B460M-Aorus-Pro/raw/master/Images/Desktop.png)
+![]()
 
